@@ -5,19 +5,37 @@ function Projects() {
     {
       title: "MERN Todo App",
       description: "Full-stack todo application with MongoDB, Express, React.",
-      githubLink: "https://github.com/Nayan7435/your-repo",
+      githubLink: "https://github.com/Nayan7435/fullstack-todo",
       liveLink: "",
     },
     {
       title: "Expense Tracker",
       description: "Track daily expenses with React and local storage.",
-      githubLink: "https://github.com/Nayan7435/your-repo",
+      githubLink: "https://github.com/Nayan7435/expense-tracker-react",
       liveLink: "",
     },
     {
       title: "Weather App",
       description: "Real-time weather info using a weather API.",
-      githubLink: "https://github.com/Nayan7435/your-repo",
+      githubLink: "https://github.com/Nayan7435/weather-react",
+      liveLink: "",
+    },
+    {
+      title: "Currency Converter",
+      description: "Real-time currency converter using a currency API.",
+      githubLink: "https://github.com/Nayan7435/Currency_Converter",
+      liveLink: "",
+    },
+    {
+      title: "Stone Paper Scissors",
+      description: "This Stone Paper Scissors Game is Create using HTML CSSS and Javascript.",
+      githubLink: "https://github.com/Nayan7435/Stone_Paper_Scissors",
+      liveLink: "",
+    },
+    {
+      title: "Netflix Clone",
+      description: "This Netflix Clone Project is create using Tailwind CSS",
+      githubLink: "https://github.com/Nayan7435/Netflix_clone",
       liveLink: "",
     },
   ];
